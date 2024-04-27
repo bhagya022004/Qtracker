@@ -1,0 +1,101 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.navigation-bar{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	background-image: linear-gradient(to right,#4ad1d4,#739191);
+}
+.navbar-brand{
+	font-size: 30px;
+	font-family: Arial Black;
+}
+.q{
+	color: blueviolet;
+	font-size: 50px;
+}
+.nav-link{
+	font-size: 25px;
+	margin-left: 15px;
+	color: black !important;
+	font-weight: bolder;
+}
+.homepageinfo{
+	position: relative;
+	top: 100px;
+	z-index: -4;
+}
+.heading{
+	color: royalblue;
+	margin-top: 40px;
+	font-family: Arial Black;
+	font-size: 40px;
+	margin-left: 20px;
+	text-underline-offset: ;
+
+}
+.info{
+	font-size: 20px;
+	padding: 50px;
+	font-weight: bolder;
+}
+.mycaro{
+	width: 600px;
+	margin-top: 10px;
+}
+.heading2{
+	font-size: 15px;
+	color: royalblue;
+}
+.courseinfo{
+	margin-left: 100px;
+}
+.courseinfo ul li{
+	font-size: 20px;
+}
+.syallabus-collapse{
+	width: 90%;
+	height: 100vh;
+}
+
+#contact{
+    height: 400px;
+    width: 100%;
+    padding-left: 10%;
+    margin-top: 100px;
+    border: none;
+}
+
+.contact-div{
+    display: flex;
+    height: 200px;
+    width: 80%;
+}
+.contact-details{
+    width: 50%;
+    text-align: left;
+    padding-top: 50px;
+    line-height: 30px;
+}
+.contact-form{
+    width: 50%;
+    padding-top: 50px;
+
+}
+.footer{
+    height: 50px;
+    width: 100%;
+    background-image: linear-gradient(to right,#4ad1d4,#739191);
+}
+
+.footer-heading{
+    text-align: center;
+    padding-top: 15px;
+    text-decoration: underline;
+
+}
+
